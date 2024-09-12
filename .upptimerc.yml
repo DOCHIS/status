@@ -1,36 +1,96 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: DOCHIS
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: "afreeca.dochis.net"
+    url: http://afreeca.dochis.net
+  - name: "afreeca.dochis.net│player"
+    url: http://afreeca.dochis.net/player/default.html?pId=6b63302c-dd83-49b3-bc32-b083dabc855a-0c1fd2d4-cce5-4cd4-bb5c-f4a88e9160fc
+  - name: "doc.ssapi.kr"
+    url: https://doc.ssapi.kr/
+  - name: "afreeca-emotes.vercel.app"
+    url: https://afreeca-emotes.vercel.app/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /status
+  logoUrl: http://afreeca.dochis.net/assets/images/logo/logo-white.svg
+  name: 헛삯의 Status
+  introTitle: 헛삯이 제공하는 서비스에 대한 Status 페이지
+  introMessage: "이 페이지는 [upptime/upptime](https://github.com/upptime/upptime)를 통해 생성되었습니다."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  activeIncidents: 활성 인시던트
+  allSystemsOperational: 모든 시스템 정상 작동 중
+  incidentReport: "인시던트 #$NUMBER 보고서 →"
+  activeIncidentSummary: $DATE에 열림, $POSTS개의 게시물
+  incidentTitle: 인시던트 $NUMBER 상세 정보
+  incidentDetails: 인시던트 상세 정보
+  incidentFixed: 해결됨
+  incidentOngoing: 진행 중
+  incidentOpenedAt: 열린 시간
+  incidentClosedAt: 종료된 시간
+  incidentViewOnGitHub: GitHub에서 보기 및 구독하기
+  incidentCommentSummary: $DATE에 $AUTHOR가 게시함
+  incidentBack: ← 모든 인시던트로 돌아가기
+  pastIncidents: 과거 인시던트
+  pastIncidentsResolved: $MINUTES분 내에 해결됨, $POSTS개의 게시물
+  liveStatus: 실시간 상태
+  overallUptime: "전체 가동 시간: $UPTIME"
+  overallUptimeTitle: 전체 가동 시간
+  averageResponseTime: "평균 응답 시간: $TIMEms"
+  averageResponseTimeTitle: 평균 응답 시간
+  sevelDayResponseTime: 7일 응답 시간
+  responseTimeMs: 응답 시간 (ms)
+  up: 정상
+  down: 중단
+  degraded: 성능 저하
+  ms: ms
+  loading: 로딩 중
+  navGitHub: GitHub
+  footer: 이 페이지는 [오픈 소스]($REPO)이며, [Upptime](https://upptime.js.org)에 의해 구동됩니다.
+  rateLimitExceededTitle: 요청 한도 초과
+  rateLimitExceededIntro: 한 시간 동안 할 수 있는 요청 수를 초과했습니다. 이 웹사이트에 다시 접속하려면 잠시 기다려야 합니다. 또는 GitHub 개인 접근 토큰을 추가하여 계속 이 웹사이트를 사용할 수 있습니다.
+  rateLimitExceededWhatDoesErrorMean: 이 오류는 무엇을 의미하나요?
+  rateLimitExceededErrorMeaning: 이 웹사이트는 GitHub API를 사용하여 웹사이트 상태에 대한 실시간 데이터에 접근합니다. 기본적으로 GitHub는 각 IP 주소에 시간당 60개의 요청을 허용하며, 귀하는 이 한도를 모두 사용했습니다.
+  rateLimitExceededErrorHowCanFix: 어떻게 해결할 수 있나요?
+  rateLimitExceededErrorFix: 한 시간을 기다리면 IP 주소의 한도가 복원됩니다. 또는 GitHub 개인 접근 토큰을 추가하면 시간당 추가로 5,000개의 요청을 사용할 수 있습니다.
+  rateLimitExceededGeneratePAT: 개인 접근 토큰 생성 방법 알아보기
+  rateLimitExceededHasSet: 개인 접근 토큰이 설정되어 있습니다.
+  rateLimitExceededRemoveToken: 토큰 제거
+  rateLimitExceededGitHubPAT: GitHub 개인 접근 토큰
+  rateLimitExceededCopyPastePAT: 토큰을 복사하여 붙여넣으세요
+  rateLimitExceededSaveToken: 토큰 저장
+  errorTitle: 오류 발생
+  errorIntro: 최신 상태 정보를 가져오는 중 오류가 발생했습니다.
+  errorText: 잠시 후 다시 시도해 주세요.
+  errorHome: 홈페이지로 이동
+  pastScheduledMaintenance: 과거 예정된 유지보수
+  scheduledMaintenance: 예정된 유지보수
+  scheduledMaintenanceSummaryStarted: $DATE에 시작되어 $DURATION분 동안 진행
+  scheduledMaintenanceSummaryStarts: $DATE에 시작되어 $DURATION분 동안 진행 예정
+  startedAt: 시작 시간
+  startsAt: 시작 예정 시간
+  duration: 기간
+  durationMin: $DURATION분
+  incidentCompleted: 완료됨
+  incidentScheduled: 예정됨
+  duration24H: 24시간
+  duration7D: 7일
+  duration30D: 30일
+  duration1Y: 1년
+  durationAll: 전체
+  locale: ko-KR
+
+commitMessages:
+  readmeContent: ":pencil: README 요약 업데이트 [skip ci] [upptime]"
+  statusChange: "$EMOJI $SITE_NAME 상태가 $STATUS로 변경됨 ($RESPONSE_TIME ms에 $RESPONSE_CODE 응답) [skip ci] [upptime]"
+  graphsUpdate: ":bento: 그래프 업데이트 [skip ci] [upptime]"
+  browserSiteChange: ":robot: 사이트 변경 자동 감지"
+  staticSite: ":bento: 정적 사이트 재생성"
+  performanceUpdate: ":chart_with_upwards_trend: 성능 데이터 업데이트"
+  dependencies: ":arrow_up: 의존성 업데이트"
