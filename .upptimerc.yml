@@ -19,7 +19,7 @@ status-website:
   introMessage: "이 페이지는 [upptime/upptime](https://github.com/upptime/upptime)를 통해 생성되었습니다."
   navbar:
     - title: Status
-      href: /
+      href: /status/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
