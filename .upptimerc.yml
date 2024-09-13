@@ -10,8 +10,12 @@ sites:
     url: http://afreeca.dochis.net/api/status/database
   - name: "afreeca.dochis.net(Socket)"
     url: http://afreeca.dochis.net/api/status/socket
-  - name: "doc.ssapi.kr(Documents)"
+  - name: "doc.ssapi.kr"
     url: https://doc.ssapi.kr/
+  - name: "api.ssapi.kr"
+    url: http://api.ssapi.kr/status/database
+  - name: "socket.ssapi.kr"
+    url: http://api.ssapi.kr/status/socket
   - name: "afreeca-emotes.vercel.app(Main)"
     url: https://afreeca-emotes.vercel.app/
   - name: "afreeca-emotes.vercel.app(API)"
