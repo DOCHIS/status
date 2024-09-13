@@ -40,12 +40,12 @@ status-website:
 delay: 2000
 
 workflowSchedule:
-  graphs: "0 0 * * *"
+  graphs: "*/10 * * * *"
   responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
+  staticSite: "*/10 * * * *"
+  summary: "0 * * * *"
   updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
+  # updates: "0 5 * * *"
   uptime: "*/5 * * * *"
 
 i18n:
