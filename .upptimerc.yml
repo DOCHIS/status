@@ -2,10 +2,14 @@ owner: DOCHIS
 repo: status
 
 sites:
-  - name: "afreeca.dochis.net"
+  - name: "afreeca.dochis.net(Main)"
     url: http://afreeca.dochis.net
-  - name: "afreeca.dochis.net│player"
+  - name: "afreeca.dochis.net(Player)"
     url: http://afreeca.dochis.net/player/default.html?pId=6b63302c-dd83-49b3-bc32-b083dabc855a-0c1fd2d4-cce5-4cd4-bb5c-f4a88e9160fc
+  - name: "afreeca.dochis.net(API)"
+    url: http://afreeca.dochis.net/api/status/database
+  - name: "afreeca.dochis.net(Socket)"
+    url: http://afreeca.dochis.net/api/status/socket
   - name: "doc.ssapi.kr"
     url: https://doc.ssapi.kr/
   - name: "afreeca-emotes.vercel.app"
