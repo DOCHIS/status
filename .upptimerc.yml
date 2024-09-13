@@ -36,7 +36,7 @@ status-website:
 delay: 2000
 
 workflowSchedule:
-  graphs: "*/30 * * * *"
+  graphs: "*/10 * * * *"
   responseTime: "0 23 * * *"
   staticSite: "*/10 * * * *"
   summary: "0 * * * *"
