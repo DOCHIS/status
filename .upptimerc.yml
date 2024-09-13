@@ -40,13 +40,13 @@ status-website:
 delay: 2000
 
 workflowSchedule:
-  graphs: "*/10 * * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "*/10 * * * *"
-  summary: "0 * * * *"
-  updateTemplate: "0 0 * * *"
+  # graphs: "*/10 * * * *"
+  # responseTime: "0 23 * * *"
+  # staticSite: "*/10 * * * *"
+  # summary: "0 * * * *"
+  # updateTemplate: "0 0 * * *"
   # updates: "0 5 * * *"
-  uptime: "*/5 * * * *"
+  # uptime: "*/5 * * * *"
 
 i18n:
   activeIncidents: 활성 인시던트
