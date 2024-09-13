@@ -13,5 +13,5 @@ end: 2021-08-24T14:00:00.220Z
 expectedDown: google, hacker-news
 -->
 
-**Additional context**
-Who/what/when/where/why is this maintenance happening
+**추가 정보**
+이 유지관리는 누구/무엇/언제/어디서/왜 진행되나요?
