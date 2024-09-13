@@ -12,8 +12,10 @@ sites:
     url: http://afreeca.dochis.net/api/status/socket
   - name: "doc.ssapi.kr"
     url: https://doc.ssapi.kr/
+    icon: https://213852622-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FBFqICvaPSxp6CBljoR9c%2Ficon%2FVV7jnsSvwyQOT15d4HmZ%2F%EC%A0%9C%EB%AA%A9-%EC%97%86%EC%9D%8C-1.png?alt=media&token=a660ab2a-1ec4-4f6c-92e6-9a04be8def12
   - name: "api.ssapi.kr"
     url: http://api.ssapi.kr/status/database
+    icon: https://213852622-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FBFqICvaPSxp6CBljoR9c%2Ficon%2FVV7jnsSvwyQOT15d4HmZ%2F%EC%A0%9C%EB%AA%A9-%EC%97%86%EC%9D%8C-1.png?alt=media&token=a660ab2a-1ec4-4f6c-92e6-9a04be8def12
   - name: "socket.ssapi.kr"
     url: http://api.ssapi.kr/status/socket
   - name: "afreeca-emotes.vercel.app(Main)"
