@@ -85,12 +85,3 @@ i18n:
   duration1Y: 1년
   durationAll: 전체
   locale: ko-KR
-
-commitMessages:
-  readmeContent: ":pencil: README 요약 업데이트 [skip ci] [upptime]"
-  statusChange: "$EMOJI $SITE_NAME 상태가 $STATUS로 변경됨 ($RESPONSE_TIME ms에 $RESPONSE_CODE 응답) [skip ci] [upptime]"
-  graphsUpdate: ":bento: 그래프 업데이트 [skip ci] [upptime]"
-  browserSiteChange: ":robot: 사이트 변경 자동 감지"
-  staticSite: ":bento: 정적 사이트 재생성"
-  performanceUpdate: ":chart_with_upwards_trend: 성능 데이터 업데이트"
-  dependencies: ":arrow_up: 의존성 업데이트"
