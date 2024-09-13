@@ -37,6 +37,15 @@ status-website:
 
 delay: 2000
 
+workflowSchedule:
+  graphs: "0 * * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 * * * *"
+  updateTemplate: "0 * * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
 i18n:
   activeIncidents: 활성 인시던트
   allSystemsOperational: 모든 시스템 정상 작동 중
