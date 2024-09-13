@@ -38,12 +38,33 @@ status-website:
 delay: 2000
 
 workflowSchedule:
+workflowSchedule:
+  # 그래프 생성 워크플로우: 매시간 실행 (기본값: "0 0 * * *" - 매일 00시에 실행)
+  # Graphs CI: 응답 시간 그래프를 생성하고 'graphs' 디렉토리에 PNG 이미지로 저장
   graphs: "0 * * * *"
+
+  # 응답 시간 기록 워크플로우: 매일 23시에 실행 (기본값: "0 23 * * *")
+  # Response Time CI: 각 엔드포인트의 응답 시간을 기록하고 git 히스토리에 커밋
   responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
+
+  # 정적 사이트 생성 워크플로우: 매일 01시에 실행 (기본값: "0 1 * * *")
+  # Static Site CI: 설정을 읽고 Svelte/Sapper 웹사이트를 빌드하여 'gh-pages' 브랜치에 배포
+  staticSite: "0 * * * *"
+
+  # 요약 정보 업데이트 워크플로우: 매시간 실행 (기본값: "0 0 * * *" - 매일 00시에 실행)
+  # Summary CI: 프로젝트의 README를 응답 시간 요약 및 생성된 그래프로 업데이트
   summary: "0 * * * *"
-  updateTemplate: "0 * * * *"
-  updates: "0 3 * * *"
+
+  # 템플릿 업데이트 워크플로우: 매일 00시에 실행 (기본값: "0 0 * * 1" - 매주 월요일 00시에 실행)
+  # Update Template CI: Upptime의 내부 코드를 주 1회 업데이트하여 최신 버전 유지
+  updateTemplate: "0 0 * * *"
+
+  # 일반 업데이트 워크플로우: 매일 03시에 실행 (기본값: 없음 - 수동으로 트리거)
+  # Setup CI: 설정 파일 편집 후 트리거되며, 모든 단계(가동 시간 확인, 응답 시간 추적, README 업데이트, 그래프 생성)를 실행
+  # updates: "0 5 * * *"
+
+  # 가동 시간 확인 워크플로우: 5분마다 실행 (기본값: "*/5 * * * *")
+  # Uptime CI: 웹사이트 가동 상태를 확인하고, 다운 시 이슈 생성, 복구 시 이슈 종료
   uptime: "*/5 * * * *"
 
 i18n:
