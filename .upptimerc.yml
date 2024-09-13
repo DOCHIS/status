@@ -19,7 +19,7 @@ sites:
   - name: "afreeca-emotes.vercel.app(Main)"
     url: https://afreeca-emotes.vercel.app/
   - name: "afreeca-emotes.vercel.app(API)"
-    url: https://afreeca-emotes.vercel.app/api/v1/historyRank
+    url: https://afreeca-emotes.vercel.app/api/v1/fun-facts
 
 status-website:
   baseUrl: /status
