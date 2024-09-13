@@ -20,10 +20,10 @@ sites:
     url: https://afreeca-emotes.vercel.app/
   - name: "afreeca-emotes.vercel.app(API)"
     url: https://afreeca-emotes.vercel.app/api/v1/fun-facts
-  - name: "hananacard"
-    url: https://dochis.github.io/hananacard/
-  - name: "dragon-egg-game"
-    url: https://dragon-egg-game.vercel.app/
+  - name: "dochis.github.io/hananacard"
+    url: https://dochis.github.io/hananacard
+  - name: "dragon-egg-game.vercel.app"
+    url: https://dragon-egg-game.vercel.app
 
 status-website:
   baseUrl: /status
