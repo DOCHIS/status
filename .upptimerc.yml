@@ -26,7 +26,7 @@ status-website:
   logoUrl: http://afreeca.dochis.net/assets/images/logo/logo-white.svg
   name: 헛삯의 Status
   introTitle: 헛삯이 제공하는 서비스에 대한 Status 페이지
-  introMessage: 서비스 장애와 관려하여 문의가 있으신 경우 [연락처 안내](http://afreeca.dochis.net/contact), [이슈 제보](https://github.com/DOCHIS/status/issues), 디스코드 아이디 ```hutsak```으로 연락하실 수 있습니다. 
+  introMessage: 서비스 장애와 관려하여 문의가 있으신 경우 [연락처 안내](http://afreeca.dochis.net/contact), [이슈 제보](https://github.com/DOCHIS/status/issues), 디스코드 아이디 hutsak 으로 연락하실 수 있습니다. 
   navbar:
     - title: Status
       href: /status/
