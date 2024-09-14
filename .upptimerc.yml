@@ -45,7 +45,7 @@ workflowSchedule:
   staticSite: "*/10 * * * *"
   summary: "0 * * * *"
   updateTemplate: "0 0 * * *"
-  # updates: "0 5 * * *"
+  updates: "0 5 * * *"
   uptime: "*/5 * * * *"
 
 i18n:
