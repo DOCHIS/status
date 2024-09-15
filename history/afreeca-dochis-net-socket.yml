@@ -1,7 +1,7 @@
 url: http://afreeca.dochis.net/api/status/socket
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-15T16:40:14.595Z
+status: up
+code: 200
+responseTime: 139
+lastUpdated: 2024-09-15T16:45:29.026Z
 startTime: 2024-09-13T06:15:20.481Z
 generator: Upptime <https://github.com/upptime/upptime>
