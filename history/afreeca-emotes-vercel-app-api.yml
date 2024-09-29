@@ -1,7 +1,7 @@
 url: https://afreeca-emotes.vercel.app/api/v1/fun-facts
-status: down
-code: 504
-responseTime: 10241
-lastUpdated: 2024-09-29T18:35:28.400Z
+status: up
+code: 200
+responseTime: 1445
+lastUpdated: 2024-09-29T18:46:40.614Z
 startTime: 2024-09-13T06:19:37.937Z
 generator: Upptime <https://github.com/upptime/upptime>
