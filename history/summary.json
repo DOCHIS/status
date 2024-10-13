@@ -13,7 +13,7 @@
     "time": 963,
     "timeDay": 899,
     "timeWeek": 1032,
-    "timeMonth": 1004,
+    "timeMonth": 1032,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2024-09-29": 39,
@@ -36,7 +36,7 @@
     "time": 195,
     "timeDay": 129,
     "timeWeek": 153,
-    "timeMonth": 207,
+    "timeMonth": 212,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2024-10-08": 15,
@@ -60,7 +60,7 @@
     "time": 183,
     "timeDay": 131,
     "timeWeek": 152,
-    "timeMonth": 190,
+    "timeMonth": 191,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2024-09-29": 39,
@@ -82,7 +82,7 @@
     "time": 1062,
     "timeDay": 1346,
     "timeWeek": 990,
-    "timeMonth": 1059,
+    "timeMonth": 1069,
     "timeYear": 1062,
     "dailyMinutesDown": {}
   },
@@ -100,7 +100,7 @@
     "time": 381,
     "timeDay": 840,
     "timeWeek": 566,
-    "timeMonth": 417,
+    "timeMonth": 435,
     "timeYear": 381,
     "dailyMinutesDown": {}
   },
@@ -118,7 +118,7 @@
     "time": 629,
     "timeDay": 478,
     "timeWeek": 559,
-    "timeMonth": 624,
+    "timeMonth": 630,
     "timeYear": 629,
     "dailyMinutesDown": {}
   },
@@ -136,7 +136,7 @@
     "time": 1201,
     "timeDay": 1124,
     "timeWeek": 1183,
-    "timeMonth": 1206,
+    "timeMonth": 1207,
     "timeYear": 1201,
     "dailyMinutesDown": {}
   },
@@ -154,7 +154,7 @@
     "time": 323,
     "timeDay": 281,
     "timeWeek": 288,
-    "timeMonth": 317,
+    "timeMonth": 320,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2024-10-12": 578,
@@ -167,15 +167,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/afreeca-emotes.vercel.app.ico",
     "slug": "afreeca-emotes-vercel-app-api",
     "status": "up",
-    "uptime": "96.78%",
+    "uptime": "96.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.67%",
     "uptimeMonth": "96.78%",
-    "uptimeYear": "96.78%",
+    "uptimeYear": "96.79%",
     "time": 1968,
     "timeDay": 212,
     "timeWeek": 295,
-    "timeMonth": 2069,
+    "timeMonth": 2225,
     "timeYear": 1968,
     "dailyMinutesDown": {
       "2024-10-12": 578,
@@ -198,7 +198,7 @@
     "time": 144,
     "timeDay": 223,
     "timeWeek": 136,
-    "timeMonth": 144,
+    "timeMonth": 137,
     "timeYear": 144,
     "dailyMinutesDown": {}
   },
@@ -216,7 +216,7 @@
     "time": 139,
     "timeDay": 59,
     "timeWeek": 75,
-    "timeMonth": 139,
+    "timeMonth": 129,
     "timeYear": 139,
     "dailyMinutesDown": {}
   }
