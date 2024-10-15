@@ -73,19 +73,19 @@
     "url": "http://afreehp.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/afreehp.kr.ico",
     "slug": "afreehp-kr-third-party",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1056,
-    "timeDay": 1062,
-    "timeWeek": 987,
-    "timeMonth": 1052,
-    "timeYear": 1056,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1055,
+    "timeDay": 1030,
+    "timeWeek": 989,
+    "timeMonth": 1050,
+    "timeYear": 1055,
     "dailyMinutesDown": {
-      "2024-10-15": 0
+      "2024-10-15": 9
     }
   },
   {
