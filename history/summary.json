@@ -13,7 +13,7 @@
     "time": 969,
     "timeDay": 1098,
     "timeWeek": 1066,
-    "timeMonth": 1050,
+    "timeMonth": 1034,
     "timeYear": 969,
     "dailyMinutesDown": {
       "2024-09-29": 39,
@@ -36,7 +36,7 @@
     "time": 193,
     "timeDay": 169,
     "timeWeek": 150,
-    "timeMonth": 212,
+    "timeMonth": 211,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2024-10-08": 15,
@@ -60,7 +60,7 @@
     "time": 182,
     "timeDay": 170,
     "timeWeek": 152,
-    "timeMonth": 191,
+    "timeMonth": 192,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2024-09-29": 39,
@@ -74,19 +74,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/afreehp.kr.ico",
     "slug": "afreehp-kr-third-party",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1055,
     "timeDay": 1030,
     "timeWeek": 989,
     "timeMonth": 1050,
     "timeYear": 1055,
-    "dailyMinutesDown": {
-      "2024-10-15": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "doc.ssapi.kr",
@@ -169,15 +167,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/afreeca-emotes.vercel.app.ico",
     "slug": "afreeca-emotes-vercel-app-api",
     "status": "up",
-    "uptime": "96.78%",
+    "uptime": "96.79%",
     "uptimeDay": "94.08%",
     "uptimeWeek": "85.82%",
     "uptimeMonth": "96.59%",
-    "uptimeYear": "96.78%",
+    "uptimeYear": "96.79%",
     "time": 1753,
     "timeDay": 250,
     "timeWeek": 243,
-    "timeMonth": 1965,
+    "timeMonth": 1849,
     "timeYear": 1753,
     "dailyMinutesDown": {
       "2024-10-15": 47,
