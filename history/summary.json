@@ -73,9 +73,9 @@
     "url": "http://afreehp.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/afreehp.kr.ico",
     "slug": "afreehp-kr-third-party",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -84,7 +84,9 @@
     "timeWeek": 1056,
     "timeMonth": 1065,
     "timeYear": 1055,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-19": 0
+    }
   },
   {
     "name": "doc.ssapi.kr",
