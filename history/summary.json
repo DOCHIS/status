@@ -156,7 +156,7 @@
     "time": 325,
     "timeDay": 328,
     "timeWeek": 314,
-    "timeMonth": 333,
+    "timeMonth": 332,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2024-10-12": 578,
@@ -177,7 +177,7 @@
     "time": 1371,
     "timeDay": 277,
     "timeWeek": 1436,
-    "timeMonth": 611,
+    "timeMonth": 622,
     "timeYear": 1371,
     "dailyMinutesDown": {
       "2024-10-15": 47,
@@ -220,7 +220,7 @@
     "time": 129,
     "timeDay": 254,
     "timeWeek": 116,
-    "timeMonth": 121,
+    "timeMonth": 122,
     "timeYear": 129,
     "dailyMinutesDown": {}
   }
