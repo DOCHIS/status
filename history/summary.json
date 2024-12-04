@@ -77,18 +77,16 @@
     "slug": "afreehp-kr-third-party",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1062,
     "timeDay": 1119,
     "timeWeek": 1120,
     "timeMonth": 1060,
     "timeYear": 1062,
-    "dailyMinutesDown": {
-      "2024-12-04": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "doc.ssapi.kr",
