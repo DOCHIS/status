@@ -75,9 +75,9 @@
     "url": "http://afreehp.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/afreehp.kr.ico",
     "slug": "afreehp-kr-third-party",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -86,7 +86,9 @@
     "timeWeek": 1112,
     "timeMonth": 1056,
     "timeYear": 1060,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-04": 0
+    }
   },
   {
     "name": "doc.ssapi.kr",
@@ -148,11 +150,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/afreeca-emotes.vercel.app.ico",
     "slug": "afreeca-emotes-vercel-app-main",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 329,
     "timeDay": 342,
     "timeWeek": 377,
