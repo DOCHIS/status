@@ -2,14 +2,6 @@ owner: DOCHIS
 repo: status
 
 sites:
-  - name: "afreeca.dochis.net(Main)"
-    url: http://afreeca.dochis.net
-  - name: "afreeca.dochis.net(API)"
-    url: http://afreeca.dochis.net/api/status/database
-  - name: "afreeca.dochis.net(Socket)"
-    url: http://afreeca.dochis.net/api/status/socket
-  - name: "afreehp.kr(Third-Party)"
-    url: http://afreehp.kr/
   - name: "doc.ssapi.kr"
     url: https://doc.ssapi.kr/
   - name: "api.ssapi.kr"
