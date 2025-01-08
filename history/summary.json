@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc.ssapi.kr.ico",
     "slug": "doc-ssapi-kr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 371,
     "timeDay": 662,
     "timeWeek": 513,
     "timeMonth": 401,
     "timeYear": 371,
-    "dailyMinutesDown": {
-      "2025-01-08": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.ssapi.kr",
