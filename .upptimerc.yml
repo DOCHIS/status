@@ -8,10 +8,6 @@ sites:
     url: http://api.ssapi.kr/status/database
   - name: "socket.ssapi.kr"
     url: http://api.ssapi.kr/status/socket
-  - name: "afreeca-emotes.vercel.app(Main)"
-    url: https://afreeca-emotes.vercel.app/
-  - name: "afreeca-emotes.vercel.app(API)"
-    url: https://afreeca-emotes.vercel.app/api/v1/fun-facts
   - name: "dochis.github.io/hananacard"
     url: https://dochis.github.io/hananacard
   - name: "dragon-egg-game.vercel.app"
