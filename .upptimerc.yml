@@ -2,8 +2,8 @@ owner: DOCHIS
 repo: status
 
 sites:
-  - name: "doc.ssapi.kr"
-    url: https://doc.ssapi.kr/
+  - name: "ssapi.kr"
+    url: https://ssapi.kr/
   - name: "api.ssapi.kr"
     url: http://api.ssapi.kr/status/database
   - name: "socket.ssapi.kr"
