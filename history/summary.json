@@ -40,18 +40,20 @@
     "url": "http://api.ssapi.kr/status/socket",
     "icon": "https://icons.duckduckgo.com/ip3/api.ssapi.kr.ico",
     "slug": "socket-ssapi-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 961,
-    "timeDay": 789,
-    "timeWeek": 707,
-    "timeMonth": 850,
-    "timeYear": 961,
-    "dailyMinutesDown": {}
+    "time": 960,
+    "timeDay": 763,
+    "timeWeek": 711,
+    "timeMonth": 847,
+    "timeYear": 960,
+    "dailyMinutesDown": {
+      "2025-02-24": 0
+    }
   },
   {
     "name": "dochis.github.io/hananacard",
