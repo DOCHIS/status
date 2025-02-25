@@ -42,18 +42,16 @@
     "slug": "socket-ssapi-kr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 964,
     "timeDay": 1098,
     "timeWeek": 828,
     "timeMonth": 872,
     "timeYear": 964,
-    "dailyMinutesDown": {
-      "2025-02-24": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "dochis.github.io/hananacard",
