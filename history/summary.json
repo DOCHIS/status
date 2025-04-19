@@ -40,19 +40,19 @@
     "url": "http://api.ssapi.kr/status/socket",
     "icon": "https://icons.duckduckgo.com/ip3/api.ssapi.kr.ico",
     "slug": "socket-ssapi-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 930,
-    "timeDay": 2937,
-    "timeWeek": 1247,
-    "timeMonth": 853,
-    "timeYear": 930,
+    "time": 934,
+    "timeDay": 2623,
+    "timeWeek": 1330,
+    "timeMonth": 888,
+    "timeYear": 934,
     "dailyMinutesDown": {
-      "2025-04-19": 0
+      "2025-04-19": 5
     }
   },
   {
