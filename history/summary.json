@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssapi.kr.ico",
     "slug": "ssapi-kr",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "79.89%",
-    "uptimeWeek": "97.13%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.74%",
+    "uptimeDay": "75.80%",
+    "uptimeWeek": "96.54%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.74%",
     "time": 853,
     "timeDay": 10463,
     "timeWeek": 2633,
     "timeMonth": 1227,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2025-05-03": 290
+      "2025-05-03": 349
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ssapi.kr.ico",
     "slug": "api-ssapi-kr",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "79.97%",
-    "uptimeWeek": "97.14%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "75.88%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.90%",
     "time": 779,
     "timeDay": 10329,
     "timeWeek": 3064,
     "timeMonth": 1834,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2025-05-03": 288
+      "2025-05-03": 347
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ssapi.kr.ico",
     "slug": "socket-ssapi-kr",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "80.04%",
-    "uptimeWeek": "97.15%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.90%",
+    "uptimeDay": "75.95%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.90%",
     "time": 1061,
     "timeDay": 10107,
     "timeWeek": 3045,
     "timeMonth": 1944,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2025-05-03": 287
+      "2025-05-03": 346
     }
   },
   {
