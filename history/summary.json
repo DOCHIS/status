@@ -4,19 +4,19 @@
     "url": "https://ssapi.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/ssapi.kr.ico",
     "slug": "ssapi-kr",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "75.42%",
-    "uptimeWeek": "96.49%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.74%",
-    "time": 853,
-    "timeDay": 10463,
-    "timeWeek": 2633,
-    "timeMonth": 1227,
-    "timeYear": 853,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "74.88%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.73%",
+    "time": 850,
+    "timeDay": 7161,
+    "timeWeek": 2445,
+    "timeMonth": 1207,
+    "timeYear": 850,
     "dailyMinutesDown": {
-      "2025-05-03": 354
+      "2025-05-03": 362
     }
   },
   {
