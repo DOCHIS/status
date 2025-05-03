@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssapi.kr.ico",
     "slug": "ssapi-kr",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "96.56%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.46%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.92%",
     "time": 853,
     "timeDay": 10463,
     "timeWeek": 2633,
     "timeMonth": 1227,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2025-05-03": 50
+      "2025-05-03": 109
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ssapi.kr.ico",
     "slug": "api-ssapi-kr",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "92.54%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.97%",
     "time": 779,
     "timeDay": 10329,
     "timeWeek": 3064,
     "timeMonth": 1834,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2025-05-03": 48
+      "2025-05-03": 107
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ssapi.kr.ico",
     "slug": "socket-ssapi-kr",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "92.61%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.97%",
     "time": 1061,
     "timeDay": 10107,
     "timeWeek": 3045,
     "timeMonth": 1944,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2025-05-03": 47
+      "2025-05-03": 106
     }
   },
   {
