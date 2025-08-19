@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssapi.kr.ico",
     "slug": "ssapi-kr",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 843,
     "timeDay": 670,
     "timeWeek": 587,
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ssapi.kr.ico",
     "slug": "api-ssapi-kr",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "100.00%",
     "time": 800,
     "timeDay": 714,
     "timeWeek": 686,
     "timeMonth": 682,
     "timeYear": 800,
-    "dailyMinutesDown": {
-      "2025-05-03": 353
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "socket.ssapi.kr",
