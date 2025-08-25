@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 840,
-    "timeDay": 662,
-    "timeWeek": 716,
-    "timeMonth": 678,
-    "timeYear": 840,
+    "time": 842,
+    "timeDay": 1405,
+    "timeWeek": 821,
+    "timeMonth": 702,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2025-05-03": 362
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 801,
-    "timeDay": 684,
-    "timeWeek": 838,
-    "timeMonth": 709,
+    "timeDay": 863,
+    "timeWeek": 859,
+    "timeMonth": 716,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2025-05-03": 353
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.91%",
-    "time": 1259,
-    "timeDay": 1848,
-    "timeWeek": 1712,
-    "timeMonth": 1916,
-    "timeYear": 1259,
+    "time": 1261,
+    "timeDay": 2169,
+    "timeWeek": 1740,
+    "timeMonth": 1938,
+    "timeYear": 1261,
     "dailyMinutesDown": {
       "2025-08-22": 36,
       "2025-08-14": 37,
@@ -73,8 +73,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 109,
-    "timeWeek": 147,
+    "timeDay": 60,
+    "timeWeek": 150,
     "timeMonth": 137,
     "timeYear": 136,
     "dailyMinutesDown": {}
@@ -85,18 +85,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dragon-egg-game.vercel.app.ico",
     "slug": "dragon-egg-game-vercel-app",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 138,
+    "timeDay": 87,
     "timeWeek": 169,
-    "timeMonth": 155,
+    "timeMonth": 156,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-08-25": 10,
       "2025-04-03": 23
     }
   }
