@@ -84,7 +84,7 @@
     "url": "https://dragon-egg-game.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/dragon-egg-game.vercel.app.ico",
     "slug": "dragon-egg-game-vercel-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "97.66%",
     "uptimeWeek": "99.67%",
@@ -96,6 +96,7 @@
     "timeMonth": 160,
     "timeYear": 130,
     "dailyMinutesDown": {
+      "2025-08-28": 0,
       "2025-08-27": 34,
       "2025-04-03": 23
     }
