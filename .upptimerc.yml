@@ -10,8 +10,6 @@ sites:
     url: http://api.ssapi.kr/status/socket
   - name: "dochis.github.io/hananacard"
     url: https://dochis.github.io/hananacard
-  - name: "dragon-egg-game.vercel.app"
-    url: https://dragon-egg-game.vercel.app
 
 status-website:
   baseUrl: /status
