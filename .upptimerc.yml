@@ -5,9 +5,9 @@ sites:
   - name: "ssapi.kr"
     url: https://ssapi.kr/
   - name: "api.ssapi.kr"
-    url: http://api.ssapi.kr/status/database
+    url: https://api.ssapi.kr/status/database
   - name: "socket.ssapi.kr"
-    url: http://api.ssapi.kr/status/socket
+    url: https://api.ssapi.kr/status/socket
   - name: "dochis.github.io/hananacard"
     url: https://dochis.github.io/hananacard
 
