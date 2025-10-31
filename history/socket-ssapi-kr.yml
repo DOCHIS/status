@@ -1,7 +1,7 @@
 url: https://api.ssapi.kr/status/socket
-status: down
-code: 403
-responseTime: 13
-lastUpdated: 2025-10-31T17:31:45.835Z
+status: up
+code: 200
+responseTime: 1826
+lastUpdated: 2025-10-31T17:40:30.782Z
 startTime: 2024-09-13T06:35:45.328Z
 generator: Upptime <https://github.com/upptime/upptime>
