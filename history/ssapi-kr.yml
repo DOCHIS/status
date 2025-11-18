@@ -1,7 +1,7 @@
 url: https://ssapi.kr/
-status: up
-code: 200
-responseTime: 726
-lastUpdated: 2025-11-18T14:39:06.380Z
+status: down
+code: 500
+responseTime: 347
+lastUpdated: 2025-11-18T16:19:48.949Z
 startTime: 2025-01-30T13:13:31.932Z
 generator: Upptime <https://github.com/upptime/upptime>
