@@ -6,9 +6,9 @@
     "slug": "ssapi-kr",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.89%",
     "time": 926,
     "timeDay": 6979,
@@ -16,7 +16,6 @@
     "timeMonth": 1028,
     "timeYear": 926,
     "dailyMinutesDown": {
-      "2025-12-09": 10,
       "2025-11-18": 111,
       "2025-10-31": 20,
       "2025-05-03": 362
