@@ -1,7 +1,7 @@
 url: https://api.ssapi.kr/status/database
-status: down
-code: 522
-responseTime: 19776
-lastUpdated: 2026-02-27T11:44:26.607Z
+status: up
+code: 200
+responseTime: 677
+lastUpdated: 2026-02-27T11:53:37.977Z
 startTime: 2024-09-13T06:35:44.491Z
 generator: Upptime <https://github.com/upptime/upptime>
