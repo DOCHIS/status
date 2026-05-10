@@ -79,17 +79,19 @@
     "url": "https://dochis.github.io/hananacard",
     "icon": "https://icons.duckduckgo.com/ip3/dochis.github.io.ico",
     "slug": "dochis-github-io-hananacard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 245,
-    "timeWeek": 161,
-    "timeMonth": 157,
+    "timeDay": 135,
+    "timeWeek": 144,
+    "timeMonth": 153,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-10": 0
+    }
   }
 ]
