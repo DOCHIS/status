@@ -8,8 +8,6 @@ sites:
     url: https://api.ssapi.kr/status/database
   - name: "socket.ssapi.kr"
     url: https://api.ssapi.kr/status/socket
-  - name: "dochis.github.io/hananacard"
-    url: https://dochis.github.io/hananacard
 
 status-website:
   baseUrl: /status
