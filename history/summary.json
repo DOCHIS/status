@@ -26,9 +26,9 @@
     "url": "https://api.ssapi.kr/status/database",
     "icon": "https://icons.duckduckgo.com/ip3/api.ssapi.kr.ico",
     "slug": "api-ssapi-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -45,7 +45,8 @@
       "2026-03-30": 41,
       "2026-04-08": 26,
       "2026-04-16": 27,
-      "2026-04-27": 53
+      "2026-04-27": 53,
+      "2026-06-15": 0
     }
   },
   {
