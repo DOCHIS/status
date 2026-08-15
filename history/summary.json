@@ -6,10 +6,10 @@
     "slug": "ssapi-kr",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
     "time": 935,
     "timeDay": 9948,
     "timeWeek": 2992,
@@ -19,7 +19,7 @@
       "2025-10-31": 20,
       "2025-11-18": 111,
       "2026-03-30": 42,
-      "2026-08-15": 3
+      "2026-08-15": 36
     }
   },
   {
@@ -28,10 +28,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ssapi.kr.ico",
     "slug": "api-ssapi-kr",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.84%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.77%",
     "time": 826,
     "timeDay": 9971,
@@ -50,7 +50,7 @@
       "2026-06-16": 141,
       "2026-06-15": 111,
       "2026-06-24": 51,
-      "2026-08-15": 1
+      "2026-08-15": 34
     }
   },
   {
@@ -60,9 +60,9 @@
     "slug": "socket-ssapi-kr",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.90%",
     "time": 1709,
     "timeDay": 10699,
@@ -76,7 +76,7 @@
       "2025-11-19": 222,
       "2026-03-30": 40,
       "2026-04-27": 53,
-      "2026-08-15": 0
+      "2026-08-15": 33
     }
   }
 ]
